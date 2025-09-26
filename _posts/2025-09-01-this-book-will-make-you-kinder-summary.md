@@ -1,8 +1,8 @@
 ---
 title: This Book Will Make You Kinder Summary
-description: Summary of the book "This Book Will Make You Kinder" by Henry James Garrett.
+description: A summary of the book This Book Will Make You Kinder by Henry James Garrett.
 image: assets/img/kinder.jpg
-imagealt: Picture of the book "This Book Will Make You Kinder" by Henry James Garrett.
+imagealt: A picture of the book This Book Will Make You Kinder by Henry James Garrett.
 ---
 
 A very brief summary:
