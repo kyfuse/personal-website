@@ -5,7 +5,7 @@ image: assets/img/bob.jpg
 showcase: 2
 ---
 
-[Github: Giantpizzahead/bob-bot](https://github.com/Giantpizzahead/bob-bot)
+[Github: kyfuse/bob-bot](https://github.com/kyfuse/bob-bot)
 
 [![Text responses](/assets/img/bobdemo1.png)](/assets/img/bobdemo1.png)
 
@@ -27,4 +27,4 @@ _Timed hangman minigame_
 
 _Video Demo (With a real-time voice call demonstration starting at 5:40)_
 
-[Github: Giantpizzahead/bob-bot](https://github.com/Giantpizzahead/bob-bot)
+[Github: kyfuse/bob-bot](https://github.com/kyfuse/bob-bot)

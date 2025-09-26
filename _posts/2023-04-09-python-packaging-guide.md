@@ -7,7 +7,7 @@ imagealt: Python logo.
 
 ## A Model Example
 
-See my mock application - the [Auto League Closer™](https://github.com/Giantpizzahead/auto-league-closer) - for a real-world demo (with external libraries, data files, and application logs) of how to package, freeze, or make a windows installer for your Python project. This model application was also made to follow best practices for Python projects in general!
+See my mock application - the [Auto League Closer™](https://github.com/kyfuse/auto-league-closer) - for a real-world demo (with external libraries, data files, and application logs) of how to package, freeze, or make a windows installer for your Python project. This model application was also made to follow best practices for Python projects in general!
 
 ## Packaging Python Projects
 
@@ -64,7 +64,7 @@ python -m twine upload dist/*
 
 ## Freezing Python Projects
 
-Scenario: You want to package your entire Python program - external dependencies and all - into a single EXE file that others can run, *without* installing the program first (so it's a standalone executable).
+Scenario: You want to package your entire Python program - external dependencies and all - into a single EXE file that others can run, _without_ installing the program first (so it's a standalone executable).
 
 Use [PyInstaller](https://pyinstaller.org/en/stable/). It's more mature and widely used/maintained than all the other options out there. See [this article](https://pyinstaller.org/en/stable/usage.html) for pretty much all the options you'll ever need for any project setups.
 

@@ -7,4 +7,4 @@ image: assets/img/leaguewinpred.png
 showcase: 6
 ---
 
-[Github: Giantpizzahead/league-win-probability](https://github.com/Giantpizzahead/league-win-probability)
+[Github: kyfuse/league-win-probability](https://github.com/kyfuse/league-win-probability)

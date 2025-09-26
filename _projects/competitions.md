@@ -7,6 +7,6 @@ image: assets/img/usacow.png
 showcase: 4
 ---
 
-[Github: Giantpizzahead/comp-programming](https://github.com/Giantpizzahead/comp-programming)
+[Github: kyfuse/comp-programming](https://github.com/kyfuse/comp-programming)
 
-[Github: Giantpizzahead/ctf-archive](https://github.com/Giantpizzahead/ctf-archive)
+[Github: kyfuse/ctf-archive](https://github.com/kyfuse/ctf-archive)

@@ -5,7 +5,9 @@ image: assets/img/camera.jpeg
 ---
 
 ## Code
-The below methods were called a variable number of times in each run (30-360 frames). Multiple runs were used to find the average speed of each method. For more detail on the benchmarking process, see this [Github link](https://github.com/Giantpizzahead/natural-learning/tree/main/screenshot-speed).
+
+The below methods were called a variable number of times in each run (30-360 frames). Multiple runs were used to find the average speed of each method. For more detail on the benchmarking process, see this [Github link](https://github.com/kyfuse/natural-learning/tree/main/screenshot-speed).
+
 ```python
 """ =============================== Pillow  =============================== """
 from PIL import ImageGrab
@@ -53,12 +55,12 @@ DXcam grabs the raw screen faster, and has optimizations if the image doesn't al
 
 FPS is displayed as mean ± σ. Results on a mid tier 1920x1200 Windows laptop:
 
-| Test Type    | Pillow         | MSS            | DXcam             | np.sum(screen) |
-| ------------ | -------------- | -------------- | ----------------- | -------------- |
-| Static       | 27 ± 0.5       | 29 ± 0.1       | **170 ± 3.4\***   | ~650           |
-| Dynamic      | 22 ± 1.4       | 28 ± 0.7       | **96 ± 9.2\***    | ~650           |
-| UFO 60FPS    | ~19            | ~25            | **~60**           | ~650           |
-| Small Region | 27 ± 0.7       | 57 ± 0.3       | **387 ± 11.4\***  | ~5000          |
+| Test Type    | Pillow   | MSS      | DXcam            | np.sum(screen) |
+| ------------ | -------- | -------- | ---------------- | -------------- |
+| Static       | 27 ± 0.5 | 29 ± 0.1 | **170 ± 3.4\***  | ~650           |
+| Dynamic      | 22 ± 1.4 | 28 ± 0.7 | **96 ± 9.2\***   | ~650           |
+| UFO 60FPS    | ~19      | ~25      | **~60**          | ~650           |
+| Small Region | 27 ± 0.7 | 57 ± 0.3 | **387 ± 11.4\*** | ~5000          |
 
 np.sum(screen) serves as a baseline. It measures how many times Numpy can iterate through the whole image in one second.
 
@@ -73,6 +75,7 @@ Use MSS on Mac and Linux (maybe Windows to trade ease of use with a noticeable s
 The above FPS values aren't 100% accurate, due to minor testing issues / oversights. The overall trend is definitely right though.
 
 ## Mac
+
 {% alert tip %}
 TLDR; Use [MSS](https://github.com/BoboTiG/python-mss). ~50 FPS on a MacBook Air (M1, 2020).
 {% endalert %}
@@ -83,10 +86,10 @@ MSS is 15-20 times faster than Pillow, and I couldn't find any better options. I
 
 FPS is displayed as mean ± σ. Results on an MacBook Air (M1, 2020):
 
-| Test Type    | Pillow         | MSS            | np.sum(screen) |
-| ------------ | -------------- | -------------- | -------------- |
-| Dynamic      | 2.8 ± 0.0      | **47 ± 1.2**   | 260 ± 7.0      |
-| Small Region | 2.6 ± 0.1      | **61 ± 1.1**   | 639 ± 47       |
+| Test Type    | Pillow    | MSS          | np.sum(screen) |
+| ------------ | --------- | ------------ | -------------- |
+| Dynamic      | 2.8 ± 0.0 | **47 ± 1.2** | 260 ± 7.0      |
+| Small Region | 2.6 ± 0.1 | **61 ± 1.1** | 639 ± 47       |
 
 np.sum(screen) serves as a baseline. It measures how many times Numpy can iterate through the whole image in one second.
 
@@ -95,7 +98,7 @@ Both static and dynamic screens were tested, but the results were very similar (
 ### Details
 
 So, Mac has a Retina display, which means the displayed resolution is doubled from
-the *virtual* resolution. That is, for all intents and purposes, treat a 2800 x 1800
+the _virtual_ resolution. That is, for all intents and purposes, treat a 2800 x 1800
 Mac screen as 1400 x 900. (The retina part is ONLY for making the display look better.)
 
 Virtual = Normal resolution, Retina = Double resolution
@@ -103,8 +106,8 @@ Both screenshot libraries use virtual resolution to specify the desired region t
 Then they used different methods to handle the retina resolution:
 
 Pillow - If no region is specified, Pillow uses (0, 0, retina width, retina height).
-First, Pillow uses screencapture (Mac commandline tool) to grab the *virtual resolution* region
-of the screen, returning that region in *retina resolution*. Then, Pillow resizes that image into
+First, Pillow uses screencapture (Mac commandline tool) to grab the _virtual resolution_ region
+of the screen, returning that region in _retina resolution_. Then, Pillow resizes that image into
 the specified region size, and returns it. All in all, you specify a virtual res size, and Pillow
 returns an image of that virtual res size. But if you don't specify a region, a retina res version
 of the screen is returned.

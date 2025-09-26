@@ -7,4 +7,4 @@ image: assets/img/judgelite.png
 showcase: 7
 ---
 
-[Github: Giantpizzahead/judgelite](https://github.com/Giantpizzahead/judgelite)
+[Github: kyfuse/judgelite](https://github.com/kyfuse/judgelite)

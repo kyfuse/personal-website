@@ -8,4 +8,4 @@ showcase: 5
 
 [Heroku deployment: All Things Web](https://all-things-web.herokuapp.com/)
 
-[Github: Giantpizzahead/all-things-web](https://github.com/Giantpizzahead/all-things-web)
+[Github: kyfuse/all-things-web](https://github.com/kyfuse/all-things-web)
