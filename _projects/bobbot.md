@@ -1,8 +1,8 @@
 ---
 title: Bob Bot
 description: Discord AI chatbot using LLMs that can chat, voice call, and play games.
-showcase: 2
 image: assets/img/bob.jpg
+showcase: 2
 ---
 
 [Github: Giantpizzahead/bob-bot](https://github.com/Giantpizzahead/bob-bot)

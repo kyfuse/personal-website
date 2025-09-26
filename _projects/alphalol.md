@@ -1,8 +1,8 @@
 ---
 title: AlphaLoL
 description: A fully automated League of Legends bot. Can beat beginner bots consistently.
-showcase: 1
 image: assets/img/alphalol.jpeg
+showcase: 1
 ---
 
 {% youtube "https://youtu.be/KWuxXuVBSl4?t=374" %}

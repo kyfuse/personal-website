@@ -1,6 +1,6 @@
 # site settings
 title: Kyle Fu
-subtitle: "@Giantpizzahead"
+subtitle: "@kyfuse"
 email: "(Private)"
 description: I am Kyle Fu, an MIT student looking to better the world through computer science.
 url: "https://kylefu.me" # the base hostname & protocol for your site
@@ -56,15 +56,15 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/Giantpizzahead
+  GitHub: https://github.com/kyfuse
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/kyle-fu-us/
+  LinkedIn: https://www.linkedin.com/in/kyfuse
   Twitter:
   Facebook:
   Slack:
-  YouTube-Play: https://www.youtube.com/channel/UCqok9Akhd7R3u2jcTGph2oA
+  YouTube-Play: https://www.youtube.com/@kyfuse
 
 # build settings
 markdown: kramdown
