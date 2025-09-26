@@ -11,10 +11,10 @@
 		// @include vendor('background-image', 'url("../img/filler/spacelarge.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
-		// background-attachment: fixed;
-		// background-position: center;
-		// background-repeat: no-repeat;
-		// background-size: cover;
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
 		height: 60vh;
