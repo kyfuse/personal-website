@@ -6,11 +6,6 @@ We learned about foundational macroeconomics, specifically Keynesian economics.
 
 From the course catalog: Provides an overview of macroeconomic issues including the determination of national income, economic growth, unemployment, inflation, interest rates, and exchange rates. Introduces basic macroeconomic models and illustrates key principles through applications to the experience of the US and other economies. Explores a range of current policy debates, such as the economic effects of monetary and fiscal policy, the causes of and policy responses to financial crises, the burden of the national debt, and the government policies that affect long-term growth in living standards.
 
-## Cheatsheets
-- [Part 1](https://docs.google.com/document/d/1MlFPZoFF8DOIW-RRktljF2EvWqoSUteGzPpJRhpD7Sc/edit?usp=sharing)
-- [Part 2](https://docs.google.com/document/d/1NGwAhVqwLvOZ-9-p6PhUrCpKqytRV_z5k6_VKDg2KEc/edit?usp=sharing)
-- [Part 3](https://docs.google.com/document/d/1DExTf6R9pM6FdNDqiEy1HAPpx1s3rXAueUsSBgG6uh0/edit?usp=sharing)
-
 ## Table of Contents
 
 - **Lecture 1**: Intro, U.S./China/Europe Analysis  

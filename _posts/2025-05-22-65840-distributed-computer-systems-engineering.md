@@ -31,8 +31,7 @@ Since tests were open book, the "cheatsheets" are more just like table of conten
 - **Class 9**: Zookeeper (Wait-free filesystem coordination)  
 - **Class 10**: Two-Phase Locking, Two-Phase Commit  
 - **Class 11**: Raft Lab 3A–B Q&A, Many vs. one thread solution  
-- **Class 12**: Spanner (Google's globally distributed database)  
-- **[Midterm Cheatsheet](https://docs.google.com/document/d/1-cPYiJ0HjO4b8neBFZZQJSHfcWzilRk2swZjgn_5VmU/edit?usp=sharing)**: (basically just this table of contents)  
+- **Class 12**: Spanner (Google's globally distributed database)   
 
 - **Class 13**: FaRM (Fast Remote Memory), RDMA (Remote DMA)  
 - **Class 14**: Chardonnay, Epochs, Fast 2PC (eRPC, NVMe)  
@@ -48,5 +47,4 @@ Since tests were open book, the "cheatsheets" are more just like table of conten
 
 - **Class 21**: Bitcoin, Proof-of-work  
 - **Class 22**: PBFT (Practical Byzantine Fault Tolerance), Byzantine Generals Problem  
-- **Class 23**: Project presentations  
-- **[Final Cheatsheet](https://docs.google.com/document/d/1o2uK7dAOwB31pxvNNXVcA2bnYdB5Ya9LjDjFtL0G_-I/edit?usp=sharing)**: (basically just this table of contents, again)
+- **Class 23**: Project presentations

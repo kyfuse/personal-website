@@ -9,9 +9,6 @@ Oh boy... this was something for sure.
 
 From the [course website](https://web.mit.edu/6.115/www/): Course topics include optical tomography, multi-axis robot arm control, video and audio signal processing, power electronics including laptop power supplies and fluorescent lamp ballasts, and numeric computation (calculators and floating point calculations). This class is not particularly about learning how a specific microcontroller is programmed, or about designing circuits, or about wiring chips together. We do a little of all of these things, but our real goal is to introduce you to a palette of tools and techniques that let you build what you can imagine. These techniques are much more general than the details of a single processor or programming language. Chips come and go, but successful approaches for engineering design have a life that spans many iterations of a particular technology.
 
-## Cheatsheets
-- [Quiz](https://docs.google.com/document/d/13xTiipG8L0yR2Up3mmUTVaUZ2HsrdQshW5kEAzXo948/edit?usp=sharing)
-
 ## Practical Takeaways
 The quiz covered the core technical concepts in the class, but the hardest part was the labs and final project. So, here are some takeaways.
 

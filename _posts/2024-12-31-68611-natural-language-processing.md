@@ -1,24 +1,11 @@
 ---
-title: "6.8611: Natural Language Processing"
+title: '6.8611: Natural Language Processing'
 description: A summary of MIT's natural language processing class.
 image: assets/img/dallenlp.jpg
 imagealt: DALL-E generated image of an NLP next word prediction factory.
 ---
 
 Overview of natural language processing, focusing on modern deep learning methods.
-
-## Code Links
-
-To PyTorch code!
-
-- [PyTorch Cheatsheet](https://colab.research.google.com/drive/1KJ5UQrNGAZjnvv9m7v9EVkZlhDmTdKlZ?usp=sharing)
-- [Homework Code Folder](https://drive.google.com/drive/folders/1jh2iKwB36wgPDSFFfsYEjVNNt639pc-m?usp=drive_link)
-  - Tensors/DP review, LSA/TF-IDF, word2vec, RNN, seq2seq, perplexity/BLEU metrics, logits/constrained decoding/beam search
-- [ARC Project Repo (Private)](https://github.com/kyfuse/68611-nlp-project)
-
-## Cheatsheet
-
-The first half of the class had an exam: [Cheatsheet](https://docs.google.com/document/d/1_noD_9x1oFeKZcKK4Yc9mhD0Ohywl8cCyBTCypxSNqY/edit?usp=sharing)
 
 ## Outline
 

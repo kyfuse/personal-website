@@ -141,9 +141,3 @@ def bfs(neighbors_function, start, goal_test):
 A simplified model of how Python works internally. The main idea is that every variable name points to something, and all new code does is create and/or change these names and pointers. See below for 3 examples:
 
 [![Image from Gyazo](https://i.gyazo.com/f7be7594ebb36a2e99211115e6c2f450.png)](https://gyazo.com/f7be7594ebb36a2e99211115e6c2f450)
-
-## Cheatsheets
-
-For personal reference only.
-- [Part 1](https://docs.google.com/document/d/1HzYN3UzdPPbdL-F0ogLa_y77IBWGM0_wxzgYy5y9Icw/edit?usp=sharing)
-- [Part 2](https://docs.google.com/document/d/15rYrIl9I3O9qCrXteR3BHWTynDD1bOESWb52T3qV3b8/edit?usp=sharing)

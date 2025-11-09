@@ -6,8 +6,6 @@ We learned about machine learning applications in healthcare. Our project was on
 
 From the course catalog: Introduces students to machine learning in healthcare, including the nature of clinical data and the use of machine learning for risk stratification, disease progression modeling, precision medicine, diagnosis, subtype discovery, and improving clinical workflows. Topics include causality, interpretability, algorithmic fairness, time-series analysis, graphical models, deep learning and transfer learning. Guest lectures by clinicians from the Boston area, and projects with real clinical data, emphasize subtleties of working with clinical data and translating machine learning into clinical practice.
 
-## Cheatsheet
-[Final (Cumulative)](https://docs.google.com/document/d/1Cso5YBQq96iAgA95KktlDwO_nT_v7lGRYF7_NaGaUqM/edit?usp=sharing)
 ## Table of Contents
 
 - **Lecture 1**: History/Impact of ML in Healthcare, What makes healthcare different?  
@@ -75,4 +73,3 @@ From the course catalog: Introduces students to machine learning in healthcare, 
 - **Lecture 24**: ML and Deep Learning in Antibiotic Discovery  
 - **Lecture 25**: Causal Inference and Genetics  
 - **Recitation 9**: Final Exam Review
-- **[Final Cheatsheet](https://docs.google.com/document/d/1Cso5YBQq96iAgA95KktlDwO_nT_v7lGRYF7_NaGaUqM/edit?usp=sharing)**

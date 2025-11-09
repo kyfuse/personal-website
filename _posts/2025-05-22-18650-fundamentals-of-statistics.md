@@ -8,12 +8,6 @@ Really though, this was a fun class, I enjoyed it and learned a lot!
 
 From the course catalog: A rapid introduction to the theoretical foundations of statistical methods that are useful in many applications. Covers a broad range of topics in a short amount of time with the goal of providing a rigorous and cohesive understanding of the modern statistical landscape. Mathematical language is used for intuition and basic derivations but not proofs. Main topics include: parametric estimation, confidence intervals, hypothesis testing, Bayesian inference, and linear and logistic regression. Additional topics include causal inference, nonparametric estimation, and classification.
 
-## Cheatsheets
-- [Midterm 1](https://docs.google.com/document/d/1-gerdv9P8c8lwDn8ZSGndi6Yhy5SwB_FXm7C5U_aiWs/edit?tab=t.0)
-- [Midterm 2](https://docs.google.com/document/d/1wjHg9C3rKXBNmain8icn97OARbMIZyoVF9lkyVS9mu4/edit?tab=t.0)
-- [Midterm 3](https://docs.google.com/document/d/1WC8XzIXvMhEhjeOCVaEkqSIkBUAfcw5XCXD6woB75Vc/edit?usp=sharing)
-- [Final (Cumulative)](https://docs.google.com/document/d/1qt6bndbpdmyCdra5VOiffKntuJVjXOaWqklMrMq8hL4/edit?usp=sharing)
-
 ## Table of Contents
 **Part 1: Probability and Basics of Statistics**  
 - **Probability Review**  
@@ -28,7 +22,6 @@ From the course catalog: A rapid introduction to the theoretical foundations of 
 - **Lecture 8**: Estimator Properties and Confidence Intervals (CIs)  
 - **Recitation 1B**: Multivariate RVs, Parameter Estimation / MSE  
 - **Midterm 1 Review**: Review and debrief  
-- **[Midterm 1 Cheatsheet](https://docs.google.com/document/d/1-gerdv9P8c8lwDn8ZSGndi6Yhy5SwB_FXm7C5U_aiWs/edit?tab=t.0)**  
 
 **Part 2: Statistical Methods**  
 - **Lecture 9**: CI Review, Parameters of Interest, Estimating Parameters  
@@ -42,8 +35,7 @@ From the course catalog: A rapid introduction to the theoretical foundations of 
 **Part 3: Hypothesis Testing**  
 - **Lecture 15**: Hypothesis Testing Definitions  
 - **Lecture 16**: Wald Test  
-- **Midterm 2 Review**: Review and debrief  
-- **[Midterm 2 Cheatsheet](https://docs.google.com/document/d/1wjHg9C3rKXBNmain8icn97OARbMIZyoVF9lkyVS9mu4/edit?tab=t.0)**  
+- **Midterm 2 Review**: Review and debrief
 - **Lecture 17**: p-values  
 - **Lecture 18**: Chi-squared, Pearson's Goodness of Fit Test, X² Test for Independence, Degrees of Freedom  
 - **Lecture 19**: Nonparametric Tests, Kolmogorov-Smirnov/Two-sample, Kolmogorov-Lilliefors, Permutation Test Intro  
@@ -58,8 +50,7 @@ From the course catalog: A rapid introduction to the theoretical foundations of 
 - **Lecture 24**: Linear Regression Parameter Distributions  
 - **Lecture 25**: Logistic Regression (Binary and Multi-class)  
 - **Lecture 26**: Model Selection, R², AIC/BIC (Akaike/Bayesian Information Criteria), Greedy Forward/Backward, Lasso Method  
-- **Midterm 3 Review**: Review and debrief  
-- **[Midterm 3 Cheatsheet](https://docs.google.com/document/d/1WC8XzIXvMhEhjeOCVaEkqSIkBUAfcw5XCXD6woB75Vc/edit?usp=sharing)**  
+- **Midterm 3 Review**: Review and debrief
 
 **Part 6: Advanced Topics**  
 - **Lecture 27**: Survival Analysis, Kaplan-Meier Estimator, Cox Proportional Hazards  
@@ -68,5 +59,4 @@ From the course catalog: A rapid introduction to the theoretical foundations of 
 - **Lecture 30**: Cross-validation, Kernels/KDE (Kernel Density Estimator), Regressogram, Nadaraya-Watson Estimator  
 - **Lecture 31**: Survey Sampling Methods, Horvitz-Thompson/Hajek Estimators
 - **Lecture 32**: Bayes Classifier  
-- **Lecture 33**: Data Visualization, Dimensionality Reduction, PCA (Principal Component Analysis), MDS (Multidimensional Scaling), SNE/t-SNE (Stochastic Neighbor Embedding)  
-- **[Final Cheatsheet](https://docs.google.com/document/d/1qt6bndbpdmyCdra5VOiffKntuJVjXOaWqklMrMq8hL4/edit?usp=sharing)**
+- **Lecture 33**: Data Visualization, Dimensionality Reduction, PCA (Principal Component Analysis), MDS (Multidimensional Scaling), SNE/t-SNE (Stochastic Neighbor Embedding)
