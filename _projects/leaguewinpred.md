@@ -7,4 +7,4 @@ image: assets/img/leaguewinpred.png
 showcase: 6
 ---
 
-[Github: kyfuse/league-win-probability](https://github.com/kyfuse/league-win-probability)
+[Github: kyfuse/league-win-predictor](https://github.com/kyfuse/league-win-predictor)
