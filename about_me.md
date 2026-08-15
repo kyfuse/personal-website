@@ -9,7 +9,7 @@ imagealt: Image by Boskampi from Pixabay
 order: 2
 ---
 
-Hi! I'm Kyle Fu, a passionate MIT student looking to change the world using the latest breakthroughs in computer science.
+Hi! I'm Kyle Fu, an MIT graduate looking to change the world using the latest breakthroughs in computer science.
 
 During my time at Homestead High School, I helped lead our programming club, discovering the competitive programming community in the process. On my road to becoming a two-time [USA Computing Olympiad finalist](http://www.usaco.org/index.php?page=finalists21), I saw the vast potential of technology unfold. The bursts of joy I get from solving a complex problem, seeing my name near the top of the leaderboards, and seeing others solve the problems I created motivate me to keep coding, to strive to be a better version of myself.
 
